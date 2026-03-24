@@ -1,6 +1,10 @@
 title: PS기록
 description: PS기록용 사이트 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 url: https://ssa53.github.io
 
